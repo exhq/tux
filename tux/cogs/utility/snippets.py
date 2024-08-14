@@ -306,6 +306,14 @@ class Snippets(commands.Cog):
             await ctx.send("This command cannot be used in direct messages.")
             return
 
+        for i in await DatabaseController().case.get_all_cases_by_target_id(
+            guild_id=ctx.guild.id,
+            case_target_id=ctx.author.id,
+        ):
+            if i.case_type == "SNIPPETBAN":
+                await ctx.send("you have been banned from creating snippets")
+                return
+
         args = arg.split(" ")
         if len(args) < 2:
             embed = EmbedCreator.create_error_embed(

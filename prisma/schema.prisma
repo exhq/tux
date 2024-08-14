@@ -23,6 +23,8 @@ generator client {
 
 // Docs: https://www.prisma.io/docs/orm/reference/prisma-schema-reference#enum
 enum CaseType {
+  SNIPPETBAN
+  SNIPPETUNBAN
   BAN
   UNBAN
   HACKBAN
