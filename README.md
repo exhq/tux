@@ -158,17 +158,10 @@ See [LICENSE](LICENSE.md) for details.
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/0x4248">
-                    <img src="https://avatars.githubusercontent.com/u/60709927?v=4" width="100;" alt="0x4248"/>
+                <a href="https://github.com/exhq">
+                    <img src="https://avatars.githubusercontent.com/u/91651232?v=4" width="100;" alt="exhq"/>
                     <br />
-                    <sub><b>0x4248</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/wlinator">
-                    <img src="https://avatars.githubusercontent.com/u/75494059?v=4" width="100;" alt="wlinator"/>
-                    <br />
-                    <sub><b>wlinator</b></sub>
+                    <sub><b>exhq</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -213,8 +206,6 @@ See [LICENSE](LICENSE.md) for details.
                     <sub><b>ExploitDemon</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/jwe66">
                     <img src="https://avatars.githubusercontent.com/u/142009905?v=4" width="100;" alt="jwe66"/>
@@ -222,11 +213,13 @@ See [LICENSE](LICENSE.md) for details.
                     <sub><b>jwe66</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
-                <a href="https://github.com/GabberBalls">
-                    <img src="https://avatars.githubusercontent.com/u/102343489?v=4" width="100;" alt="GabberBalls"/>
+                <a href="https://github.com/targzballs">
+                    <img src="https://avatars.githubusercontent.com/u/102343489?v=4" width="100;" alt="targzballs"/>
                     <br />
-                    <sub><b>GabberBalls</b></sub>
+                    <sub><b>targzballs</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -244,6 +237,13 @@ See [LICENSE](LICENSE.md) for details.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/0x4248">
+                    <img src="https://avatars.githubusercontent.com/u/60709927?v=4" width="100;" alt="0x4248"/>
+                    <br />
+                    <sub><b>0x4248</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AuraPy">
                     <img src="https://avatars.githubusercontent.com/u/119633142?v=4" width="100;" alt="AuraPy"/>
                     <br />
@@ -258,17 +258,17 @@ See [LICENSE](LICENSE.md) for details.
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/exhq">
-                    <img src="https://avatars.githubusercontent.com/u/91651232?v=4" width="100;" alt="exhq"/>
-                    <br />
-                    <sub><b>exhq</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/CapnRyna">
                     <img src="https://avatars.githubusercontent.com/u/100812735?v=4" width="100;" alt="CapnRyna"/>
                     <br />
                     <sub><b>CapnRyna</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/wlinator">
+                    <img src="https://avatars.githubusercontent.com/u/75494059?v=4" width="100;" alt="wlinator"/>
+                    <br />
+                    <sub><b>wlinator</b></sub>
                 </a>
             </td>
 		</tr>
